@@ -14,13 +14,14 @@ Modularização do projeto
 **# Configuração do Projeto:**
 
 ```
-Importar as tabelas da pasta 'DB_escola_curso' no Workbench.
+Crie um banco de dados com nome "escola_curso" no Workbench
+Importar as tabelas da pasta 'DB_escola_curso' nesse banco
 Editar o arquivo CRUD.py
-```
+
 host = "localhost"
-user = "*your_user*"
-password = *yourpassword*
+user = "your_user*"
+password = "your_password*"
 db = "escola_curso"
 port = 3306
-
-
+```
+* = personal config
