@@ -16,12 +16,11 @@ Modularização do projeto
 ```
 Importar as tabelas da pasta 'DB_escola_curso' no Workbench.
 Editar o arquivo CRUD.py
-
+```
 host = "localhost"
 user = "*your_user*"
 password = *yourpassword*
 db = "escola_curso"
 port = 3306
 
-```
 
