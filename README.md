@@ -1,4 +1,4 @@
-**# Projeto CRUD básico em Python
+# Projeto CRUD básico em Python
 
 Projeto de um simples CRUD(curso) desenvolvido em Python com acesso ao MySQL
 
@@ -18,8 +18,8 @@ Importar as tabelas da pasta 'DB_escola_curso' no Workbench.
 Editar o arquivo CRUD.py
 
 host = "localhost"
-user = " *your_user* "
-password = " *your_password* "
+user = "*your_user*"
+password = "*your_password*"
 db = "escola_curso"
 port = 3306
 
