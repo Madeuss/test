@@ -19,7 +19,7 @@ Editar o arquivo CRUD.py
 
 host = "localhost"
 user = "*your_user*"
-password = *your_password*
+password = *yourpassword*
 db = "escola_curso"
 port = 3306
 
