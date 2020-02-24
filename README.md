@@ -15,8 +15,8 @@ Modularização do projeto
 
 ```
 Crie um banco de dados com nome "escola_curso" no Workbench
-Importar as tabelas da pasta 'DB_escola_curso' nesse banco
-Editar o arquivo CRUD.py
+Importe as tabelas da pasta 'DB_escola_curso' nesse banco
+Edite o arquivo CRUD.py
 
 host = "localhost"
 user = "your_user*"
