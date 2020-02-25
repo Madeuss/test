@@ -23,5 +23,7 @@ user = "your_user*"
 password = "your_password*"
 db = "escola_curso"
 port = 3306
-```
+
 * = personal config
+```
+
