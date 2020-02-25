@@ -11,7 +11,7 @@ Modularização do projeto
 
 ```
 
-**# Configuração do Projeto:**
+**Configuração do Projeto:**
 
 ```
 Crie um banco de dados com nome "escola_curso" no Workbench
